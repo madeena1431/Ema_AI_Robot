@@ -1,0 +1,6 @@
+groq
+pyaudio
+pygame
+cvzone
+opencv-python
+pyserial
